@@ -11,15 +11,14 @@
         
 
     <div class="board" id="board">
-                    <img id="scream" src="images/Cboard.jpg" alt="Board">
+                    <img id="scream" src="images/Cboard.jpg">
                     <canvas id="canvas" id="canvas" width="540" height="600"></canvas>
                     <!--<span class="cursor" id="cursor"></span>-->
                     <div class="alert" id="alert" style="display: none">
                         <span class="w-l" id="w-l">You win</span>
                         <span class="continue" id="continue" onclick="reset()">Continue</span>
                     </div>
-        <h1>huy</h1>
-        <h2></h2>
+       
                 </div>
    
 </body>
